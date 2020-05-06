@@ -1,0 +1,20 @@
+{
+  "name": "insomnia-plugin-rich-brackets",
+  "version": "1.0.0",
+  "author": "Akito Tabira <akito.tabira@gmail.com>",
+  "description": "Rich brackets for Insomnia",
+  "license": "MIT",
+  "keywords": [
+    "Insomnia"
+  ],
+  "homepage": "https://github.com/mythosil/insomnia-plugin-rich-brackets",
+  "repository": "https://github.com/mythosil/insomnia-plugin-rich-brackets",
+  "bugs": "https://github.com/mythosil/insomnia-plugin-rich-brackets/issues",
+  "main": "src/rich-brackets.js",
+  "insomnia": {
+    "name": "rich-brackets",
+    "description": "Rich brackets"
+  },
+  "dependencies": [],
+  "devDependencies": []
+}
